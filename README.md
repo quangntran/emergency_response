@@ -1,4 +1,4 @@
-# Ambulance Distribution Allocation Algorithms and Emergency Response Simulation (CS166 Final Project)
+# Ambulance Allocation Algorithms and Emergency Response Simulation (CS166 Final Project)
 
 We need to optimize the placement of ambulances in a city to respond to emergency calls as quickly as possible. In a serious emergency, a person's chance of survival depends strongly on how fast an ambulance can reach them.
 
